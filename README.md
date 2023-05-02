@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aduome
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning AWS Solutions Architect 
-- 💞️ I’m looking to collaborate on related AWS cloud architecture projects
+- 🌱 I’m currently a Certified AWS Solutions Architect Associate
+- 💞️ I’m looking forward to collaborate on related AWS cloud projects
 - 📫 You can reach me with username @aduome
 
 <!---
